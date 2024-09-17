@@ -1,0 +1,165 @@
+2024-09-17 18:04:17,073 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x2018bab17e0: Karat Weight 12K
+2024-09-17 18:04:22,193 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x2018babd9c0: Karat Weight 12K
+2024-09-17 18:04:25,944 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 80: Karat Weight 12K
+2024-09-17 18:04:25,969 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 81: Karat Weight 12K
+2024-09-17 18:04:27,761 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_80: Karat Weight 12K
+2024-09-17 18:04:27,762 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_80: Karat Weight 18K
+2024-09-17 18:04:27,762 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_81: Karat Weight 12K
+2024-09-17 18:04:28,284 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 80: Karat Weight 18K
+2024-09-17 18:04:28,284 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 81: Karat Weight 18K
+2024-09-17 18:04:40,911 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 82: Karat Weight 18K
+2024-09-17 18:04:40,967 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 81: Karat Weight 18K
+2024-09-17 18:04:52,624 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_80: Karat Weight 18K
+2024-09-17 18:04:53,471 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 81: Karat Weight 18K
+2024-09-17 18:05:33,179 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x2018baa17e0: Karat Weight 24K
+2024-09-17 18:08:12,932 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 83: Karat Weight 24K
+2024-09-17 18:08:12,970 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 84: Karat Weight 24K
+2024-09-17 18:52:44,465 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x25e5c655d80: Karat Weight 24K
+2024-09-17 18:52:52,102 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x25e5c664b80: Karat Weight 24K
+2024-09-17 18:54:36,451 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 85: Karat Weight 24K
+2024-09-17 18:54:36,524 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 86: Karat Weight 24K
+2024-09-17 19:21:08,374 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x231459a9060: Karat Weight 24K
+2024-09-17 19:21:17,181 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x23141c05960: Karat Weight 24K
+2024-09-17 19:26:25,468 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x271741ff280: Karat Weight 24K
+2024-09-17 19:48:47,591 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x27174194340: Karat Weight 18K
+2024-09-17 19:48:49,235 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 87: Karat Weight 18K
+2024-09-17 19:48:49,257 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 88: Karat Weight 18K
+2024-09-17 19:49:05,076 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 89: Karat Weight 18K
+2024-09-17 19:49:05,124 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 88: Karat Weight 18K
+2024-09-17 19:49:55,058 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x271741da1d0: Karat Weight 24K
+2024-09-17 19:49:55,543 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x271741f65f0: Karat Weight 24K
+2024-09-17 19:50:04,745 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 90: Karat Weight 24K
+2024-09-17 19:50:04,804 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 91: Karat Weight 24K
+2024-09-17 19:55:09,919 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x1f5e239d9c0: Karat Weight 24K
+2024-09-17 19:55:18,036 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 92: Karat Weight 24K
+2024-09-17 19:55:18,103 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 93: Karat Weight 24K
+2024-09-17 19:55:41,643 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_0x175bbe85f30: Karat Weight 24K
+2024-09-17 19:55:58,236 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 94: Karat Weight 24K
+2024-09-17 19:55:58,305 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 95: Karat Weight 24K
+2024-09-17 19:55:59,511 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_94: Karat Weight 24K
+2024-09-17 19:55:59,512 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_94: Karat Weight 12K
+2024-09-17 19:55:59,512 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line NewId_95: Karat Weight 24K
+2024-09-17 19:56:00,041 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 94: Karat Weight 12K
+2024-09-17 19:56:00,041 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karat Weight for line 95: Karat Weight 12K
+2024-09-17 20:02:04,762 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line NewId_0x1ca2f383c40: 18K
+2024-09-17 20:02:06,550 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 96: 18K
+2024-09-17 20:02:06,576 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 97: 18K
+2024-09-17 20:02:07,965 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line NewId_96: 18K
+2024-09-17 20:02:07,966 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line NewId_96: 24K
+2024-09-17 20:02:07,966 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line NewId_97: 18K
+2024-09-17 20:02:08,520 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 96: 24K
+2024-09-17 20:02:08,520 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 97: 24K
+2024-09-17 20:02:35,335 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 98: 24K
+2024-09-17 20:02:35,384 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 97: 24K
+2024-09-17 20:14:03,503 - odoo.addons.invoice_ckt_extension.models.account_move - WARNING - No CKT value or weight found for move NewId_85, setting Weight as N/A
+2024-09-17 20:14:17,660 - odoo.addons.invoice_ckt_extension.models.account_move - WARNING - No CKT value or weight found for move 85, setting Weight as N/A
+2024-09-17 20:14:17,687 - odoo.addons.invoice_ckt_extension.models.account_move - WARNING - No CKT value or weight found for move 85, setting Weight as N/A
+2024-09-17 20:17:54,667 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 80: 24K
+2024-09-17 20:17:54,667 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 82: 24K
+2024-09-17 20:17:54,667 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 81: 24K
+2024-09-17 20:17:54,667 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 83: 24K
+2024-09-17 20:17:54,667 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 84: 24K
+2024-09-17 20:17:54,667 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 94: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 95: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 85: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 86: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 98: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 96: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 97: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 26: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 1: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 2: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 29: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 30: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 31: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 32: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 33: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 89: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 87: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 88: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 90: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 91: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 59: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 58: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 6: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 7: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 8: 24K
+2024-09-17 20:17:54,668 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 9: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 10: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 11: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 12: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 13: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 14: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 16: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 17: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 18: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 19: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 20: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 28: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 21: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 22: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 23: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 34: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 35: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 36: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 37: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 38: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 39: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 40: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 41: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 60: 24K
+2024-09-17 20:17:54,669 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 61: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 77: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 78: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 79: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 62: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 63: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 44: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 45: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 42: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 43: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 46: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 47: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 48: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 49: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 50: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 51: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 52: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 53: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 54: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 55: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 56: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 57: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 64: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 65: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 66: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 67: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 68: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 69: 24K
+2024-09-17 20:17:54,670 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 70: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 71: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 72: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 73: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 74: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 75: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 76: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 3: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 4: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 15: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 27: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 5: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 24: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 25: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 92: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 93: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 99: 24K
+2024-09-17 20:17:54,671 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 100: 24K
+2024-09-17 20:18:03,857 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line NewId_0x1f42c234760: 24K
+2024-09-17 20:18:23,185 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 101: 24K
+2024-09-17 20:18:23,259 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 102: 24K
+2024-09-17 20:28:00,246 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 103: 18K
+2024-09-17 20:28:00,263 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 104: 18K
+2024-09-17 20:28:00,283 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 105: 18K
+2024-09-17 20:28:39,664 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 103: 24K
+2024-09-17 20:28:39,664 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 104: 24K
+2024-09-17 20:28:39,664 - odoo.addons.invoice_ckt_extension.models.account_move - INFO - Computed Karats for line 105: 24K
